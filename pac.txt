@@ -2480,7 +2480,7 @@ var domains = {
   "loliconjav.pl": 1
 };
 
-var proxy = "__PROXY__";
+var proxy ="104.128.91.26:9999";
 
 var direct = 'DIRECT;';
 
